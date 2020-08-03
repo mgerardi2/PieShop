@@ -1,0 +1,12 @@
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\bin\Debug\netcoreapp3.1\Ingenico.Data.deps.json
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\bin\Debug\netcoreapp3.1\Ingenico.Data.dll
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\bin\Debug\netcoreapp3.1\Ingenico.Data.pdb
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\obj\Debug\netcoreapp3.1\Ingenico.Data.AssemblyInfoInputs.cache
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\obj\Debug\netcoreapp3.1\Ingenico.Data.AssemblyInfo.cs
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\obj\Debug\netcoreapp3.1\Ingenico.Data.dll
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\obj\Debug\netcoreapp3.1\Ingenico.Data.pdb
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\bin\Debug\netcoreapp3.1\Ingenico.Data.runtimeconfig.json
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\bin\Debug\netcoreapp3.1\Ingenico.Data.runtimeconfig.dev.json
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\obj\Debug\netcoreapp3.1\Ingenico.Data.genruntimeconfig.cache
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\obj\Debug\netcoreapp3.1\Ingenico.Data.csproj.CoreCompileInputs.cache
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\Ingenico.Data\obj\Debug\netcoreapp3.1\Ingenico.Data.csprojAssemblyReference.cache

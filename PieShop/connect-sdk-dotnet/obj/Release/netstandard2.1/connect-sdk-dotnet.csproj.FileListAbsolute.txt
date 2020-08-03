@@ -1,0 +1,10 @@
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\connect-sdk-dotnet\bin\Release\netstandard2.1\connect-sdk-dotnet.xml
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\connect-sdk-dotnet\bin\Release\netstandard2.1\connect-sdk-dotnet.deps.json
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\connect-sdk-dotnet\bin\Release\netstandard2.1\connect-sdk-dotnet.dll
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\connect-sdk-dotnet\bin\Release\netstandard2.1\connect-sdk-dotnet.pdb
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\connect-sdk-dotnet\obj\Release\netstandard2.1\connect-sdk-dotnet.csprojAssemblyReference.cache
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\connect-sdk-dotnet\obj\Release\netstandard2.1\connect-sdk-dotnet.AssemblyInfoInputs.cache
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\connect-sdk-dotnet\obj\Release\netstandard2.1\connect-sdk-dotnet.AssemblyInfo.cs
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\connect-sdk-dotnet\obj\Release\netstandard2.1\connect-sdk-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\connect-sdk-dotnet\obj\Release\netstandard2.1\connect-sdk-dotnet.dll
+C:\Users\mgerardi2\Source\Repos\connect-sdk-dotnet\connect-sdk-dotnet\obj\Release\netstandard2.1\connect-sdk-dotnet.pdb

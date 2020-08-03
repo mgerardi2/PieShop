@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>connect-sdk-dotnet</id>
+    <version>3.12.0</version>
+    <authors>Ingenico ePayments</authors>
+    <owners>Ingenico ePayments</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>packageIcon.png</icon>
+    <projectUrl>https://epayments.developer-ingenico.com/documentation/sdk/server/dotnet/</projectUrl>
+    <iconUrl>https://github.com/Ingenico-ePayments/connect-sdk-dotnet/blob/master/packageIcon.png</iconUrl>
+    <description>SDK to communicate with the Ingenico ePayments platform using the Ingenico Connect Server API</description>
+    <copyright>Copyright (c) 2016 Global Collect Services B.V.</copyright>
+    <tags>Ingenico ePayments Connect SDK</tags>
+    <repository url="https://github.com/Ingenico-ePayments/connect-sdk-dotnet" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="NLog" version="4.3.7" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Collections.Immutable" version="1.2.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="NLog" version="4.6.8" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Collections.Immutable" version="1.7.0" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="NLog" version="4.6.8" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Collections.Immutable" version="1.7.0" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Configuration" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Net.Http" targetFramework=".NETFramework4.5" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Users\mgerardi2\source\repos\PieShop\PieShop\connect-sdk-dotnet\bin\Debug\net45\connect-sdk-dotnet.dll" target="lib\net45\connect-sdk-dotnet.dll" />
+    <file src="C:\Users\mgerardi2\source\repos\PieShop\PieShop\connect-sdk-dotnet\bin\Debug\net45\connect-sdk-dotnet.xml" target="lib\net45\connect-sdk-dotnet.xml" />
+    <file src="C:\Users\mgerardi2\source\repos\PieShop\PieShop\connect-sdk-dotnet\bin\Debug\netstandard2.0\connect-sdk-dotnet.dll" target="lib\netstandard2.0\connect-sdk-dotnet.dll" />
+    <file src="C:\Users\mgerardi2\source\repos\PieShop\PieShop\connect-sdk-dotnet\bin\Debug\netstandard2.0\connect-sdk-dotnet.xml" target="lib\netstandard2.0\connect-sdk-dotnet.xml" />
+    <file src="C:\Users\mgerardi2\source\repos\PieShop\PieShop\connect-sdk-dotnet\bin\Debug\netstandard2.1\connect-sdk-dotnet.dll" target="lib\netstandard2.1\connect-sdk-dotnet.dll" />
+    <file src="C:\Users\mgerardi2\source\repos\PieShop\PieShop\connect-sdk-dotnet\bin\Debug\netstandard2.1\connect-sdk-dotnet.xml" target="lib\netstandard2.1\connect-sdk-dotnet.xml" />
+    <file src="C:\Users\mgerardi2\source\repos\PieShop\PieShop\packageIcon.png" target="packageIcon.png" />
+    <file src="C:\Users\mgerardi2\source\repos\PieShop\PieShop\LICENSE.txt" target="LICENSE.txt" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Data.deps.json
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Data.runtimeconfig.json
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Data.runtimeconfig.dev.json
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Data.dll
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Data.pdb
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.csprojAssemblyReference.cache
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.AssemblyInfoInputs.cache
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.AssemblyInfo.cs
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.dll
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.pdb
+C:\Users\mgerardi2\source\repos\PieShop\PieShop\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.genruntimeconfig.cache
