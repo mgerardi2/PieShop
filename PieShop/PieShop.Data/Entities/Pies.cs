@@ -1,6 +1,4 @@
-﻿using System.ComponentModel;
-
-namespace Ingenico.DB.Entities
+﻿namespace Ingenico.DB.Entities
 {
     public class Pies
     {

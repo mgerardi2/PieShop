@@ -1,12 +1,8 @@
 ﻿using Ingenico.Connect.Sdk;
 using Ingenico.Connect.Sdk.Domain.Definitions;
-using Ingenico.Connect.Sdk.Domain.Hostedcheckout;
-using Ingenico.Connect.Sdk.Domain.Hostedcheckout.Definitions;
-using Ingenico.Connect.Sdk.Domain.Payment.Definitions;
 using Ingenico.Connect.Sdk.Domain.Token;
 using Ingenico.Connect.Sdk.Domain.Token.Definitions;
 using Ingenico.Connect.Sdk.Merchant;
-using Ingenico.Connect.Sdk.Merchant.Hostedcheckouts;
 using Ingenico.Connect.Sdk.Merchant.Tokens;
 using System.Threading.Tasks;
 using System.Web.Http;

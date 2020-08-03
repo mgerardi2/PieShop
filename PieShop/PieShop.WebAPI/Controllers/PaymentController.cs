@@ -1,17 +1,14 @@
 ﻿using Ingenico.Connect.Sdk;
 using Ingenico.Connect.Sdk.Domain.Definitions;
+using Ingenico.Connect.Sdk.Domain.Errors.Definitions;
 using Ingenico.Connect.Sdk.Domain.Payment;
 using Ingenico.Connect.Sdk.Domain.Payment.Definitions;
 using Ingenico.Connect.Sdk.Merchant;
 using Ingenico.Connect.Sdk.Merchant.Payments;
-using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Web.Http;
 using System.Web.Routing;
-using System.Linq;
-using System.Collections.Generic;
-using Ingenico.Connect.Sdk.Domain.Sessions;
-using Ingenico.Connect.Sdk.Domain.Errors.Definitions;
 
 namespace Ingenico.WebAPI.Controllers
 {

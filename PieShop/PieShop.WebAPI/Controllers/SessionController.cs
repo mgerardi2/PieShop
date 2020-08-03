@@ -1,7 +1,5 @@
 ﻿using Ingenico.Connect.Sdk;
-using Ingenico.Connect.Sdk.Domain.Definitions;
 using Ingenico.Connect.Sdk.Domain.Sessions;
-using Ingenico.Connect.Sdk.Domain.Sessions.Definitions;
 using Ingenico.Connect.Sdk.Merchant;
 using Ingenico.Connect.Sdk.Merchant.Sessions;
 using System;
